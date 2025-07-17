@@ -1,5 +1,5 @@
 I developed and deployed a modern news homepage using 
+- React.js
 - Tailwind CSS
-- CSS Grid
 
-Featuring a clean, responsive layout with dynamic content sections. The site is fully responsive and provides an intuitive, engaging reading experience across all devices.
+Featuring a clean, responsive layout with dynamic content sections. The site is fully responsive, providing an intuitive and engaging reading experience across all devices.
